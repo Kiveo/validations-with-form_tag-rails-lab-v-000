@@ -58,5 +58,5 @@ Rails.application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
->>>>>>> 2b55f77d1ca02ca1b99cc5846281186dc22d5d5d
+# >>>>>>> 2b55f77d1ca02ca1b99cc5846281186dc22d5d5d
 end
